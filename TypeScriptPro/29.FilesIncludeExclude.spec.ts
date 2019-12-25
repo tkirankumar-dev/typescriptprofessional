@@ -1,0 +1,1 @@
+console.log('Hello, this spec is used for testing and should not be compiled.');
